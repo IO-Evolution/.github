@@ -1,5 +1,3 @@
-### ![IO Evolution Logo](https://avatars.githubusercontent.com/u/143218648?s=200&v=4) 
-
 # Welcome to IO Evolution
 
 Welcome to IO Evolution, the software house dedicated to helping you evolve your everyday operations. 🚀
